@@ -1,6 +1,6 @@
 # INCIDENT REPORT
 
-COMP 229 Sec 401, Group Assignment
+
 
 Project Manager: Prosper Alabi
 Lead Software Engineer: Rodolfo Cota Borbon
